@@ -14,4 +14,4 @@ Full-Stack Developer (Backend-Focused)
 - Worked on API integration and UI logic
 
 ## Tech Stack
-React Native (Expo), Supabase, JavaScript
+React Native (Expo), TypeScript, Supabase (Auth, Database, RPC), REST APIs
